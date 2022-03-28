@@ -1,0 +1,34 @@
+.container{
+    display: flex;
+    /* align-items: center; */
+    width: 100%;
+    height: 80vh;
+    background-color: bisque;
+}
+
+.form{
+    height: 100%;
+    width: 35%;
+    background-color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.clearBtn{
+    font-size: 12px;
+    margin: auto;
+}
+
+.todoTable{
+    border: 2px solid black;
+    margin-left: 10vw;
+}
+.todoTable th, td{
+    border: 2px solid black;;
+}
+.toggle{
+    width: 15px;
+    font-size: 10px;
+}
+
